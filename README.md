@@ -8,7 +8,7 @@ This project implements a pipeline for continuous sign language recognition usin
 3. (Optional) Install inflated_convnets_pytorch: `git clone https://github.com/hassony2/inflated_convnets_pytorch.git` and add to PYTHONPATH.
 
 ### Usage
-Run `python main.py` to execute the pipeline. Configure via `config.yaml`.
+Run `python main.py` to execute the pipeline. Configure via `config.yaml`..
 
 ### Structure
 - `src/`: Core modules (extractors, dataset, model, trainer, utils).
