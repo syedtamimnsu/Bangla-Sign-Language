@@ -1,0 +1,11 @@
+mediapipe
+tqdm
+torch
+torchvision
+tokenizers
+evaluate
+sacrebleu
+numpy
+pandas
+opencv-python
+pyyaml

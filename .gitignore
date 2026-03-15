@@ -1,0 +1,7 @@
+*.mp4
+*.csv
+__pycache__/
+inflated_convnets_pytorch/
+*.pth
+*.log
+processed_data/
